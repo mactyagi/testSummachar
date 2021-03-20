@@ -1,0 +1,6 @@
+framework module Pods_TestSummachar {
+  umbrella header "Pods-TestSummachar-umbrella.h"
+
+  export *
+  module * { export * }
+}
